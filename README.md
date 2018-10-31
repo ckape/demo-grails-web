@@ -1,2 +1,2 @@
 # demo-grails-web
-## first step grails's web demo
+## the first step of grails's web demo
